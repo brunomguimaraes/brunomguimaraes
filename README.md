@@ -1,11 +1,12 @@
-### Hi there 👋
-
-My name is Bruno. I'm a highly motivated, hands-on fullstack developer.
 
 
 
 <!--
 **brunomguimaraes/brunomguimaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
+
+My name is Bruno. I'm a highly motivated, hands-on fullstack developer.
+
 
 Here are some ideas to get you started:
 An advocate for agile methodologies, transparency and collaboration among customers, product managers, software developers, and stakeholders.
