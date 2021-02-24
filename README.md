@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bruno</h1>
 <h3 align="center">Software Engineer, husband, tabletop enthusiast </h3>
 
-- :metal: I’m currently working at [Jusbrasil](jusbrasil.com.br)
+- :metal: I’m currently working at [Jusbrasil](https://jusbrasil.com.br)
 - 📄 Know more about me: [https://brunomoraesguimaraes.com.br/](https://brunomoraesguimaraes.com.br/)
 
 - 📫 How to reach me **mguimaraesbruno@gmail.com**
