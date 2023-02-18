@@ -13,3 +13,5 @@
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunomguimaraes&show_icons=true&locale=en&layout=compact" alt="brunomguimaraes" /></p>
+
+<p align="center"><img align="center" src="https://www.codewars.com/users/brunoguimaraes/badges/small" alt="brunoguimaraes-codewars" /></p>
