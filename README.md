@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Bruno</h1>
 <h3 align="center">Software Engineer, husband, tabletop enthusiast </h3>
 
-- :metal: I’m currently working at [Deskpass](https://www.deskpass.com)
-
 - 📫 How to reach me **mguimaraesbruno@gmail.com**
 
 <h3 align="center">Let's connect!</h3>
