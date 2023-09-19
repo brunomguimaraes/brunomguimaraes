@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Bruno</h1>
-<h3 align="center">Software Engineer, husband, tabletop enthusiast </h3>
+<h3 align="center">Software Engineer, husband, tabletop and cooking enthusiast </h3>
 
 - 📫 How to reach me **mguimaraesbruno@gmail.com**
 
